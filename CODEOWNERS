@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @chewbaqa
+/src/backend/database.py      @chewbaqa
+/src/backend/routers/auth.py  @chewbaqa
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @chewbaqa
